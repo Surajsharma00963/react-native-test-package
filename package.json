@@ -1,5 +1,5 @@
 {
-  "name": "react-native-diamwallet-sdk",
+  "name": "react-native-test-package",
   "version": "1.0.0",
   "description": "React native DIAM Wallet SDK integration",
   "main": "src/index.js",
